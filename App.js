@@ -20,14 +20,8 @@ export default class App extends Component<Props> {
     return (
       <Home>
         <HeaderX>
-          <Text>
-            .
-          </Text>
+          <Text>.</Text>
         </HeaderX>
-        <Text>Aqui va el header</Text>
-        <Text>Aqui va el bisca</Text>
-        <Text>Aqui va el categgoris</Text>
-        <Text>Aqui va el sugerencias</Text>
         <SuggestionList></SuggestionList>
       </Home>
     );
