@@ -18,4 +18,4 @@ npm install
 
 
 ## Example Image 
-![alt text](https://github.com/davidduran94/Videosha-React/assets/examples/example1.png)
+![alt text](https://github.com/davidduran94/Videosha-React/blob/master/assets/examples/example1.png)
